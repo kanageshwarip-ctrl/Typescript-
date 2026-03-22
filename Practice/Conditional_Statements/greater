@@ -1,0 +1,5 @@
+let a = 400
+if ( a> 100)
+    console.log("a is greater than 100",a);
+
+    

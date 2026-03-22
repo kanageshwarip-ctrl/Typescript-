@@ -1,0 +1,4 @@
+let fac = 5 , v=1;
+for (let i=1 ; i<=fac ; i++)
+ v = v * i;
+console.log(v)
